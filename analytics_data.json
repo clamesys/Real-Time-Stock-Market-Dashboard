@@ -1,0 +1,745 @@
+{
+  "visits": [
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:40:45",
+      "session_id": "df6f556b-4e84-4759-8b58-c1127a6f71ae"
+    },
+    {
+      "user_id": "db1f1a38-ab34-40b9-b86e-ede57e9cffd5",
+      "timestamp": "2025-07-20 05:42:10",
+      "session_id": "75cc65a4-f565-416c-a6e1-cf05f3296a76"
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:14",
+      "session_id": "5b5009dd-da58-469a-b90c-639fa3df48e4"
+    },
+    {
+      "user_id": "78f8f69c-b5e4-484b-aa91-ae32e8cb0bc5",
+      "timestamp": "2025-07-20 05:46:52",
+      "session_id": "e0b43d1a-c9c9-44ff-a401-7fdf6fd78538"
+    },
+    {
+      "user_id": "ced39efa-e86b-434c-8856-4d1cac81dda4",
+      "timestamp": "2025-07-20 05:47:20",
+      "session_id": "90481ee8-a8c0-4349-ac24-98c97ac37282"
+    },
+    {
+      "user_id": "d148e024-b420-495d-bd5e-1a96026e5ae4",
+      "timestamp": "2025-07-20 05:48:38",
+      "session_id": "babd207a-7dbe-4b43-adb7-e00018482660"
+    },
+    {
+      "user_id": "631c6f65-72fa-4610-8fef-7f9573a7ee29",
+      "timestamp": "2025-07-20 05:49:14",
+      "session_id": "37fa728a-09e7-4e78-9f86-5503170e5cbd"
+    }
+  ],
+  "page_views": [
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:40:45",
+      "page_name": "Stock Dashboard",
+      "view_count": 1
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:15",
+      "page_name": "Stock Dashboard",
+      "view_count": 2
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:25",
+      "page_name": "Stock Dashboard",
+      "view_count": 3
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:45",
+      "page_name": "Stock Dashboard",
+      "view_count": 4
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:49",
+      "page_name": "Stock Dashboard",
+      "view_count": 5
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:52",
+      "page_name": "Stock Dashboard",
+      "view_count": 6
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:55",
+      "page_name": "Stock Dashboard",
+      "view_count": 7
+    },
+    {
+      "user_id": "db1f1a38-ab34-40b9-b86e-ede57e9cffd5",
+      "timestamp": "2025-07-20 05:42:10",
+      "page_name": "Stock Dashboard",
+      "view_count": 1
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:14",
+      "page_name": "Stock Dashboard",
+      "view_count": 1
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:24",
+      "page_name": "Stock Dashboard",
+      "view_count": 2
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:26",
+      "page_name": "Market Dashboard",
+      "view_count": 1
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:30",
+      "page_name": "Analytics Dashboard",
+      "view_count": 1
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:35",
+      "page_name": "Settings",
+      "view_count": 1
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:42",
+      "page_name": "Stock Dashboard",
+      "view_count": 3
+    },
+    {
+      "user_id": "78f8f69c-b5e4-484b-aa91-ae32e8cb0bc5",
+      "timestamp": "2025-07-20 05:46:52",
+      "page_name": "Stock Dashboard",
+      "view_count": 1
+    },
+    {
+      "user_id": "ced39efa-e86b-434c-8856-4d1cac81dda4",
+      "timestamp": "2025-07-20 05:47:20",
+      "page_name": "Stock Dashboard",
+      "view_count": 1
+    },
+    {
+      "user_id": "d148e024-b420-495d-bd5e-1a96026e5ae4",
+      "timestamp": "2025-07-20 05:48:38",
+      "page_name": "Stock Dashboard",
+      "view_count": 1
+    },
+    {
+      "user_id": "631c6f65-72fa-4610-8fef-7f9573a7ee29",
+      "timestamp": "2025-07-20 05:49:14",
+      "page_name": "Stock Dashboard",
+      "view_count": 1
+    }
+  ],
+  "interactions": [
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:40:45",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "AAPL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:40:55",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:40:56",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "MSFT",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:40:59",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:40:59",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "GOOGL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:02",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:02",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:17",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:18",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:18",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:18",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:27",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:28",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:29",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:29",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:46",
+      "interaction_type": "stock_added",
+      "details": {
+        "stock": "TSLA"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:47",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:47",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:48",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:48",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "TSLA",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:50",
+      "interaction_type": "stock_removed",
+      "details": {
+        "stock": "AAPL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:51",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:51",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:51",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "TSLA"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:51",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:53",
+      "interaction_type": "stock_removed",
+      "details": {
+        "stock": "MSFT"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:54",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:54",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "TSLA"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:54",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:56",
+      "interaction_type": "stock_removed",
+      "details": {
+        "stock": "GOOGL"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:56",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "TSLA"
+      }
+    },
+    {
+      "user_id": "8591d20e-07b8-418d-96d7-df2561611d88",
+      "timestamp": "2025-07-20 05:41:56",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "db1f1a38-ab34-40b9-b86e-ede57e9cffd5",
+      "timestamp": "2025-07-20 05:42:10",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "AAPL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "db1f1a38-ab34-40b9-b86e-ede57e9cffd5",
+      "timestamp": "2025-07-20 05:42:11",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "db1f1a38-ab34-40b9-b86e-ede57e9cffd5",
+      "timestamp": "2025-07-20 05:42:11",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "MSFT",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "db1f1a38-ab34-40b9-b86e-ede57e9cffd5",
+      "timestamp": "2025-07-20 05:42:13",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "db1f1a38-ab34-40b9-b86e-ede57e9cffd5",
+      "timestamp": "2025-07-20 05:42:13",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "GOOGL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "db1f1a38-ab34-40b9-b86e-ede57e9cffd5",
+      "timestamp": "2025-07-20 05:42:14",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "db1f1a38-ab34-40b9-b86e-ede57e9cffd5",
+      "timestamp": "2025-07-20 05:42:14",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:15",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:15",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:16",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:16",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:24",
+      "interaction_type": "page_navigation",
+      "details": {
+        "to_page": "Stocks"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:25",
+      "interaction_type": "page_navigation",
+      "details": {
+        "to_page": "Market"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:26",
+      "interaction_type": "view_market_indices",
+      "details": {}
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:27",
+      "interaction_type": "view_index_comparison",
+      "details": {
+        "period": "6mo"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:27",
+      "interaction_type": "view_sector_performance",
+      "details": {}
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:27",
+      "interaction_type": "view_economic_indicators",
+      "details": {}
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:29",
+      "interaction_type": "view_market_movers",
+      "details": {}
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:30",
+      "interaction_type": "page_navigation",
+      "details": {
+        "to_page": "Analytics"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:35",
+      "interaction_type": "page_navigation",
+      "details": {
+        "to_page": "Settings"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:42",
+      "interaction_type": "page_navigation",
+      "details": {
+        "to_page": "Stocks"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:43",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:43",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:43",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:42:43",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "db1f1a38-ab34-40b9-b86e-ede57e9cffd5",
+      "timestamp": "2025-07-20 05:43:14",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "AAPL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "db1f1a38-ab34-40b9-b86e-ede57e9cffd5",
+      "timestamp": "2025-07-20 05:43:17",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "02fe9d24-ccf3-44bf-8045-6acd7840b88c",
+      "timestamp": "2025-07-20 05:43:45",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "78f8f69c-b5e4-484b-aa91-ae32e8cb0bc5",
+      "timestamp": "2025-07-20 05:46:52",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "AAPL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "d148e024-b420-495d-bd5e-1a96026e5ae4",
+      "timestamp": "2025-07-20 05:48:38",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "AAPL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "d148e024-b420-495d-bd5e-1a96026e5ae4",
+      "timestamp": "2025-07-20 05:48:43",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "d148e024-b420-495d-bd5e-1a96026e5ae4",
+      "timestamp": "2025-07-20 05:48:43",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "MSFT",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "d148e024-b420-495d-bd5e-1a96026e5ae4",
+      "timestamp": "2025-07-20 05:48:46",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "d148e024-b420-495d-bd5e-1a96026e5ae4",
+      "timestamp": "2025-07-20 05:48:46",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "GOOGL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "d148e024-b420-495d-bd5e-1a96026e5ae4",
+      "timestamp": "2025-07-20 05:48:50",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "d148e024-b420-495d-bd5e-1a96026e5ae4",
+      "timestamp": "2025-07-20 05:48:50",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "631c6f65-72fa-4610-8fef-7f9573a7ee29",
+      "timestamp": "2025-07-20 05:49:14",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "AAPL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "631c6f65-72fa-4610-8fef-7f9573a7ee29",
+      "timestamp": "2025-07-20 05:49:18",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "631c6f65-72fa-4610-8fef-7f9573a7ee29",
+      "timestamp": "2025-07-20 05:49:18",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "MSFT",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "8808d7e5-5085-4a4b-9d77-f72d0855d08a",
+      "timestamp": "2025-07-20 05:49:21",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "8808d7e5-5085-4a4b-9d77-f72d0855d08a",
+      "timestamp": "2025-07-20 05:49:21",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "GOOGL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "631c6f65-72fa-4610-8fef-7f9573a7ee29",
+      "timestamp": "2025-07-20 05:49:21",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    }
+  ]
+}
