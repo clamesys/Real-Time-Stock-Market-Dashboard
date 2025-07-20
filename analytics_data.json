@@ -34,6 +34,11 @@
       "user_id": "631c6f65-72fa-4610-8fef-7f9573a7ee29",
       "timestamp": "2025-07-20 05:49:14",
       "session_id": "37fa728a-09e7-4e78-9f86-5503170e5cbd"
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:23:35",
+      "session_id": "a0a4cb94-bd13-4fde-858b-a1703099056d"
     }
   ],
   "page_views": [
@@ -144,6 +149,48 @@
       "timestamp": "2025-07-20 05:49:14",
       "page_name": "Stock Dashboard",
       "view_count": 1
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:23:35",
+      "page_name": "Stock Dashboard",
+      "view_count": 1
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:07",
+      "page_name": "Market Dashboard",
+      "view_count": 1
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:31",
+      "page_name": "Analytics Dashboard",
+      "view_count": 1
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:32",
+      "page_name": "Stock Dashboard",
+      "view_count": 2
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:40",
+      "page_name": "Analytics Dashboard",
+      "view_count": 2
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:55",
+      "page_name": "Settings",
+      "view_count": 1
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:25:21",
+      "page_name": "Stock Dashboard",
+      "view_count": 3
     }
   ],
   "interactions": [
@@ -739,6 +786,194 @@
       "interaction_type": "chart_view",
       "details": {
         "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:23:35",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "AAPL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:23:40",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:23:40",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "MSFT",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:23:42",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:23:42",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "GOOGL",
+        "period": "1mo",
+        "interval": "30m"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:23:45",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:23:45",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:07",
+      "interaction_type": "page_navigation",
+      "details": {
+        "to_page": "Market"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:07",
+      "interaction_type": "view_market_indices",
+      "details": {}
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:08",
+      "interaction_type": "view_index_comparison",
+      "details": {
+        "period": "6mo"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:08",
+      "interaction_type": "view_sector_performance",
+      "details": {}
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:08",
+      "interaction_type": "view_economic_indicators",
+      "details": {}
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:10",
+      "interaction_type": "view_market_movers",
+      "details": {}
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:14",
+      "interaction_type": "view_market_heatmap",
+      "details": {
+        "period": "5d"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:31",
+      "interaction_type": "page_navigation",
+      "details": {
+        "to_page": "Analytics"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:32",
+      "interaction_type": "page_navigation",
+      "details": {
+        "to_page": "Stocks"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:33",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "AAPL"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:33",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "MSFT"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:34",
+      "interaction_type": "chart_view",
+      "details": {
+        "ticker": "GOOGL"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:34",
+      "interaction_type": "dashboard_update",
+      "details": {}
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:40",
+      "interaction_type": "page_navigation",
+      "details": {
+        "to_page": "Analytics"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:24:55",
+      "interaction_type": "page_navigation",
+      "details": {
+        "to_page": "Settings"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:25:21",
+      "interaction_type": "page_navigation",
+      "details": {
+        "to_page": "Stocks"
+      }
+    },
+    {
+      "user_id": "32ff2786-7100-4b71-adec-6011defcd08c",
+      "timestamp": "2025-07-20 17:25:21",
+      "interaction_type": "data_fetch",
+      "details": {
+        "ticker": "AAPL",
+        "period": "1mo",
+        "interval": "30m"
       }
     }
   ]

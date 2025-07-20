@@ -2,9 +2,6 @@
 
 A professional, interactive dashboard for tracking and visualizing live stock market data built with Python and Streamlit.
 
-![Dashboard Preview](https://i.imgur.com/JpyNSX9.png)
-*Example dashboard visualization (the actual dashboard will look different)*
-
 ## Features
 
 - **Real-time Stock Data**: Live updates of stock prices and key metrics
@@ -22,9 +19,13 @@ A professional, interactive dashboard for tracking and visualizing live stock ma
 The dashboard includes multiple views accessible from a single interface:
 
 1. **Stock Dashboard**: Individual stock performance with charts and key metrics
+![Dashboard Preview](ss/1.png)
 2. **Market Overview**: Broad market performance with indices and sectors
+![Dashboard Preview](ss/2.png)
 3. **Analytics**: Usage statistics and feature popularity
+![Dashboard Preview](ss/3.png)
 4. **Settings**: Customize your dashboard experience
+![Dashboard Preview](ss/4.png)
 
 ## Installation
 
